@@ -1,12 +1,18 @@
 {
   "name": "fastify-vash",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vash view renderer for fastify",
   "main": "index.js",
   "dependencies": {
     "fastify-plugin": "^1.6.1",
     "vash": "^0.13.0"
   },
+  "keywords": [
+    "fastify",
+    "vash",
+    "view",
+    "renderer"
+  ],
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
