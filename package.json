@@ -1,6 +1,6 @@
 {
   "name": "fastify-vash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Vash view renderer for fastify",
   "main": "index.js",
   "dependencies": {
@@ -29,6 +29,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cirospaciari/jscomet.git"
+    "url": "https://github.com/cirospaciari/fastify-vash.git"
   }
 }
