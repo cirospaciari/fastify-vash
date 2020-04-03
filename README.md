@@ -1,5 +1,6 @@
 # fastify-vash
 Vash view renderer for fastify
+[![npm package](https://nodei.co/npm/fastify-vash.png?downloads=true&downloadRank=true?maxAge=30)](https://nodei.co/npm/fastify-vash/)
 
 Support me for future versions:
 
