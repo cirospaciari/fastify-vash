@@ -1,10 +1,10 @@
 {
   "name": "fastify-vash",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Vash view renderer for fastify",
   "main": "index.js",
   "dependencies": {
-    "fastify-plugin": "^1.6.1",
+    "fastify-plugin": "^2.1.0",
     "vash": "^0.13.0"
   },
   "keywords": [
