@@ -45,4 +45,4 @@ function vashViewRenderer(fastify, opts, done) {
 
   done();
 }
-module.exports = fp(vashViewRenderer, { fastify: '^2.x' });
+module.exports = fp(vashViewRenderer, { fastify: '^3.x' });
