@@ -43,6 +43,10 @@ function vashViewRenderer(fastify, opts, done) {
     });
   });
 
+  fastify.decorateReply('render', function (filename, model) {
+    return render(filename, model);
+  });
+
   done();
 }
 module.exports = fp(vashViewRenderer, { fastify: '^3.x' });
